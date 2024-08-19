@@ -113,4 +113,5 @@ def minimal_data_load(dataset_uri: str):
 
 
 if __name__ == '__main__':
+    # import_from_rdf(rdf_file_path=)
     minimal_data_load('http://statistics.gov.scot/data/pupil-attainment')
