@@ -11,5 +11,4 @@ The Neo4j database must also have the `neosemantics`(n10s) plugin
 [installed](https://neo4j.com/labs/neosemantics/installation/) in case raw RDF 
 data are to be stored with `main.import_from_rdf`.
 
-The example of LLM usage on the created graph (`llm_inference_on_graph.py`) also requires
-the APOC Neo4j library.
+The example script for LLM usage on the created graph (`llm_inference_on_graph.py`) also requires the APOC Neo4j library.
